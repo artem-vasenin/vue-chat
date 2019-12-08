@@ -1,6 +1,6 @@
 # vue-chat
 
-> Fullstack С‡Р°С‚ РЅР° Vue, Socket.io, Nuxt, Vuetify
+> Fullstack чат на Vue, Socket.io, Nuxt, Vuetify
 
 ## Build Setup
 
